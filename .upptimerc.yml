@@ -7,6 +7,8 @@ sites:
     url: https://www.skypack.dev/
   - name: cdn.skypack.dev
     url: https://cdn.skypack.dev/canvas-confetti
+  - name: status.skypack.dev
+    url: https://status.skypack.dev/
   - name: Test Preact
     url: https://cdn.skypack.dev/preact@10
 
