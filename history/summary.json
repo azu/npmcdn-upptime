@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 163,
-    "timeWeek": 163,
-    "timeMonth": 163,
-    "timeYear": 163,
+    "time": 168,
+    "timeDay": 168,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 232,
-    "timeWeek": 232,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "time": 217,
+    "timeDay": 217,
+    "timeWeek": 217,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.skypack.dev.ico",
     "slug": "status-skypack-dev",
     "status": "down",
-    "uptime": "0.28%",
-    "uptimeDay": "0.28%",
-    "uptimeWeek": "0.28%",
-    "uptimeMonth": "0.28%",
-    "uptimeYear": "0.28%",
-    "time": 232,
-    "timeDay": 232,
-    "timeWeek": 232,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
+    "time": 233,
+    "timeDay": 233,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2023-01-14": 6
+      "2023-01-14": 7
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 154,
-    "timeWeek": 154,
-    "timeMonth": 154,
-    "timeYear": 154,
+    "time": 171,
+    "timeDay": 171,
+    "timeWeek": 171,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   }
 ]
