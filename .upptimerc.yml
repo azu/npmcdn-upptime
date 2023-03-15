@@ -35,7 +35,7 @@ status-website:
   logoUrl: "https://avatars.githubusercontent.com/u/73146599?s=200&v=4"
   name: npmcdn-uptime
   introTitle: "Unofficial status page for npm package CDNs"
-  introMessage: "This is non-official status page for <https://www.skypack.dev/>"
+  introMessage: "This is un-official status page for <https://www.skypack.dev/>"
   navbar:
     - title: Status
       href: /
