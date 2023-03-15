@@ -1,4 +1,3 @@
-```yaml
 # Change these first
 owner: azu # Your GitHub organization or username, where this repository lives
 repo: npmcdn-upptime # The name of this repository
@@ -57,4 +56,3 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-```
