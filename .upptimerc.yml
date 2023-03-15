@@ -14,7 +14,7 @@ sites:
     url: https://cdn.skypack.dev/preact@10.5.5
   - name: "cdn.skypack.dev/{pkg}@{major}"
     url: https://cdn.skypack.dev/preact@10
-  - name: "cdn.skypack.dev/{pkg}@{semver}"
+  - name: "cdn.skypack.dev/{pkg}@^{semver}"
     url: https://cdn.skypack.devpreact@^10
   # unpkg
   - name: unpkg.com
@@ -25,7 +25,7 @@ sites:
     url: https://unpkg.com/preact@10.5.5
   - name: "unpkg.com/{pkg}@{major}"
     url: https://unpkg.com/preact@10
-  - name: "unpkg.com/{pkg}@{semver}"
+  - name: "unpkg.com/{pkg}@^{semver}"
     url: https://unpkg.com/preact@^10
 
 
