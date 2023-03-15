@@ -30,6 +30,8 @@ sites:
   # esm.sh
   - name: esm.sh
     url: https://esm.sh/
+  - name: esm.sh status page
+    url: https://esm.instatus.com/
   - name: "esm.sh/{pkg}"
     url: https://esm.sh/preact
   - name: "esm.sh/{pkg}@{pin}"
