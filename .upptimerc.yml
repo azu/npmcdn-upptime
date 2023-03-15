@@ -3,14 +3,31 @@ owner: azu # Your GitHub organization or username, where this repository lives
 repo: skypack-upptime # The name of this repository
 
 sites:
+  # skypack
   - name: skypack.dev
     url: https://www.skypack.dev/
   - name: cdn.skypack.dev
     url: https://cdn.skypack.dev/canvas-confetti
   - name: status.skypack.dev
     url: https://status.skypack.dev/
-  - name: Test Preact
+  - name: "cdn.skypack.dev/{pkg}@{pin}"
+    url: https://cdn.skypack.dev/preact@10.5.5
+  - name: "cdn.skypack.dev/{pkg}@{major}"
     url: https://cdn.skypack.dev/preact@10
+  - name: "cdn.skypack.dev/{pkg}@{semver}"
+    url: https://cdn.skypack.devpreact@^10
+  # unpkg
+  - name: unpkg.com
+    url: https://unpkg.com/
+  - name: "unpkg.com/{pkg}"
+    url: https://unpkg.com/preact
+  - name: "unpkg.com/{pkg}@{pin}"
+    url: https://unpkg.com/preact@10.5.5
+  - name: "unpkg.com/{pkg}@{major}"
+    url: https://unpkg.com/preact@10
+  - name: "unpkg.com/{pkg}@{semver}"
+    url: https://unpkg.com/preact@^10
+
 
 status-website:
   # cname: skypack.dev
