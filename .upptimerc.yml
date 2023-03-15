@@ -15,7 +15,7 @@ sites:
   - name: "cdn.skypack.dev/{pkg}@{major}"
     url: https://cdn.skypack.dev/preact@10
   - name: "cdn.skypack.dev/{pkg}@^{semver}"
-    url: https://cdn.skypack.devpreact@^10
+    url: https://cdn.skypack.dev/preact@^10
   # unpkg
   - name: unpkg.com
     url: https://unpkg.com/
@@ -32,7 +32,7 @@ sites:
 status-website:
   # cname: skypack.dev
   baseUrl: /npmcdn-upptime
-  logoUrl: "https://avatars.githubusercontent.com/u/73146599?s=200&v=4"
+  logoUrl: "https://user-images.githubusercontent.com/19714/225467596-013cbc1b-3a80-4d69-8fa1-27bf7e931b38.png"
   name: npmcdn-uptime
   introTitle: "Unofficial status page for npm package CDNs"
   introMessage: "This is un-official status page for <https://www.skypack.dev/>"
