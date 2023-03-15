@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 100,
-    "timeWeek": 156,
-    "timeMonth": 158,
+    "timeDay": 107,
+    "timeWeek": 154,
+    "timeMonth": 157,
     "timeYear": 159,
     "dailyMinutesDown": {}
   },
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 119,
+    "timeDay": 122,
     "timeWeek": 135,
     "timeMonth": 144,
     "timeYear": 165,
@@ -47,12 +47,12 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 256,
-    "timeDay": 173,
-    "timeWeek": 212,
+    "timeDay": 192,
+    "timeWeek": 216,
     "timeMonth": 228,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-03-15": 1414,
+      "2023-03-15": 1417,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
@@ -126,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 126,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "time": 94,
+    "timeDay": 94,
+    "timeWeek": 94,
+    "timeMonth": 94,
+    "timeYear": 94,
     "dailyMinutesDown": {}
   },
   {
@@ -144,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 390,
-    "timeWeek": 390,
-    "timeMonth": 390,
-    "timeYear": 390,
+    "time": 278,
+    "timeDay": 278,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   },
   {
@@ -157,18 +157,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "cdn-skypack-dev-pkg-semver",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-15": 10
+      "2023-03-15": 13
     }
   },
   {
@@ -182,11 +182,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 84,
-    "timeWeek": 84,
-    "timeMonth": 84,
-    "timeYear": 84,
+    "time": 89,
+    "timeDay": 89,
+    "timeWeek": 89,
+    "timeMonth": 89,
+    "timeYear": 89,
     "dailyMinutesDown": {}
   },
   {
@@ -200,11 +200,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 68,
-    "timeDay": 68,
-    "timeWeek": 68,
-    "timeMonth": 68,
-    "timeYear": 68,
+    "time": 2891,
+    "timeDay": 2891,
+    "timeWeek": 2891,
+    "timeMonth": 2891,
+    "timeYear": 2891,
     "dailyMinutesDown": {}
   },
   {
@@ -218,13 +218,13 @@
     "uptimeWeek": "0.15%",
     "uptimeMonth": "0.15%",
     "uptimeYear": "0.15%",
-    "time": 4136,
-    "timeDay": 4136,
-    "timeWeek": 4136,
-    "timeMonth": 4136,
-    "timeYear": 4136,
+    "time": 5520,
+    "timeDay": 5520,
+    "timeWeek": 5520,
+    "timeMonth": 5520,
+    "timeYear": 5520,
     "dailyMinutesDown": {
-      "2023-03-15": 10
+      "2023-03-15": 13
     }
   },
   {
@@ -233,18 +233,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unpkg.com.ico",
     "slug": "unpkg-com-pkg-major",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
-    "time": 21,
-    "timeDay": 21,
-    "timeWeek": 21,
-    "timeMonth": 21,
-    "timeYear": 21,
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
+    "time": 2872,
+    "timeDay": 2872,
+    "timeWeek": 2872,
+    "timeMonth": 2872,
+    "timeYear": 2872,
     "dailyMinutesDown": {
-      "2023-03-15": 10
+      "2023-03-15": 13
     }
   },
   {
@@ -253,18 +253,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unpkg.com.ico",
     "slug": "unpkg-com-pkg-semver",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
-    "time": 24,
-    "timeDay": 24,
-    "timeWeek": 24,
-    "timeMonth": 24,
-    "timeYear": 24,
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 2838,
+    "timeDay": 2838,
+    "timeWeek": 2838,
+    "timeMonth": 2838,
+    "timeYear": 2838,
     "dailyMinutesDown": {
-      "2023-03-15": 10
+      "2023-03-15": 13
     }
   }
 ]
