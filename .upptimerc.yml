@@ -47,7 +47,7 @@ status-website:
   logoUrl: "https://user-images.githubusercontent.com/19714/225467596-013cbc1b-3a80-4d69-8fa1-27bf7e931b38.png"
   name: npmcdn-uptime
   introTitle: "Unofficial status page for npm package CDNs"
-  introMessage: "This is un-official status page for <https://www.skypack.dev/>"
+  introMessage: "This is unofficial status page for skypack, unpkg, and esm.sh"
   navbar:
     - title: Status
       href: /
