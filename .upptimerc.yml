@@ -41,8 +41,6 @@ sites:
   - name: "esm.sh/{pkg}@^{semver}"
     url: https://esm.sh/preact@^10
 
-
-
 status-website:
   # cname: skypack.dev
   baseUrl: /npmcdn-upptime
