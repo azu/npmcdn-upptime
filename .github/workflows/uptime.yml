@@ -24,9 +24,6 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 14
       - name: Check endpoint status
         uses: upptime/uptime-monitor@v1.29.0
         with:
