@@ -1,7 +1,7 @@
 url: https://status.skypack.dev/
-status: up
-code: 200
-responseTime: 322
-lastUpdated: 2023-11-28T23:00:36.007Z
+status: down
+code: 404
+responseTime: 487
+lastUpdated: 2023-11-29T23:00:34.345Z
 startTime: 2023-01-14T04:36:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
