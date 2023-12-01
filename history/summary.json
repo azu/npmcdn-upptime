@@ -13,7 +13,7 @@
     "time": 186,
     "timeDay": 101,
     "timeWeek": 123,
-    "timeMonth": 156,
+    "timeMonth": 159,
     "timeYear": 186,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 157,
     "timeDay": 59,
     "timeWeek": 95,
-    "timeMonth": 123,
+    "timeMonth": 124,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -41,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.skypack.dev.ico",
     "slug": "status-skypack-dev",
     "status": "up",
-    "uptime": "34.60%",
-    "uptimeDay": "0.02%",
+    "uptime": "34.62%",
+    "uptimeDay": "5.09%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "83.56%",
-    "uptimeYear": "34.60%",
+    "uptimeYear": "34.62%",
     "time": 352,
     "timeDay": 435,
     "timeWeek": 373,
-    "timeMonth": 438,
+    "timeMonth": 432,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2023-11-30": 1381,
@@ -280,7 +280,7 @@
     "time": 230,
     "timeDay": 34,
     "timeWeek": 238,
-    "timeMonth": 215,
+    "timeMonth": 221,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2023-06-12": 193
@@ -300,7 +300,7 @@
     "time": 319,
     "timeDay": 235,
     "timeWeek": 312,
-    "timeMonth": 346,
+    "timeMonth": 343,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2023-03-16": 101
@@ -320,7 +320,7 @@
     "time": 297,
     "timeDay": 191,
     "timeWeek": 304,
-    "timeMonth": 316,
+    "timeMonth": 319,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2023-03-15": 17
@@ -340,7 +340,7 @@
     "time": 115,
     "timeDay": 30,
     "timeWeek": 92,
-    "timeMonth": 59,
+    "timeMonth": 60,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -358,7 +358,7 @@
     "time": 372,
     "timeDay": 209,
     "timeWeek": 170,
-    "timeMonth": 381,
+    "timeMonth": 328,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2023-04-07": 925,
@@ -383,7 +383,7 @@
     "time": 525,
     "timeDay": 439,
     "timeWeek": 1313,
-    "timeMonth": 1152,
+    "timeMonth": 1147,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2023-04-07": 925,
@@ -408,7 +408,7 @@
     "time": 252,
     "timeDay": 170,
     "timeWeek": 105,
-    "timeMonth": 119,
+    "timeMonth": 105,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2023-10-05": 4,
@@ -434,7 +434,7 @@
     "time": 274,
     "timeDay": 105,
     "timeWeek": 101,
-    "timeMonth": 133,
+    "timeMonth": 134,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2023-04-07": 925,
@@ -458,7 +458,7 @@
     "time": 165,
     "timeDay": 41,
     "timeWeek": 129,
-    "timeMonth": 174,
+    "timeMonth": 169,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2023-05-20": 853,
@@ -479,7 +479,7 @@
     "time": 507,
     "timeDay": 350,
     "timeWeek": 336,
-    "timeMonth": 541,
+    "timeMonth": 549,
     "timeYear": 507,
     "dailyMinutesDown": {}
   },
@@ -497,7 +497,7 @@
     "time": 184,
     "timeDay": 92,
     "timeWeek": 127,
-    "timeMonth": 170,
+    "timeMonth": 172,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -515,7 +515,7 @@
     "time": 146,
     "timeDay": 1619,
     "timeWeek": 392,
-    "timeMonth": 202,
+    "timeMonth": 205,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -533,7 +533,7 @@
     "time": 109,
     "timeDay": 79,
     "timeWeek": 117,
-    "timeMonth": 124,
+    "timeMonth": 125,
     "timeYear": 109,
     "dailyMinutesDown": {}
   },
