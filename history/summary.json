@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.skypack.dev.ico",
     "slug": "status-skypack-dev",
     "status": "up",
-    "uptime": "31.11%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
+    "uptime": "31.12%",
+    "uptimeDay": "4.95%",
+    "uptimeWeek": "0.71%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.25%",
+    "uptimeYear": "34.26%",
     "time": 347,
     "timeDay": 345,
     "timeWeek": 432,
@@ -293,8 +293,7 @@
       "2023-02-24": 1440,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
-      "2023-02-21": 1440,
-      "2023-02-20": 1440
+      "2023-02-21": 1440
     }
   },
   {
